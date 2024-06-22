@@ -1,0 +1,27 @@
+{
+  "name": "zipzap",
+  "version": "0.1.0",
+  "description": "Personalized link File Sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STAR-173/ZipZap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STAR-173/ZipZap/issues"
+  },
+  "homepage": "https://github.com/STAR-173/ZipZap#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "redis": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
